@@ -15,3 +15,9 @@ functions are: `extract_dnp3_read_request()`, `extract_dnp3_direct_operate()`, `
 - `GetStepData.py` : This is the code for extracting the data sequentially at evert stage of feature transformation. 
 - `GetTrainedScores.py` : Code for IDS training with supervised learning based classifier.
 
+**Description of other files**
+- `MainForm.cs` : It is the main Windows application for data fusion. 
+- `SequenceForm.cs` : The application to sequentially visualize feature transformation at every stage.
+- `DSTheory.cs` : This is the code for implementation of rules of combination from Dempster Shafer Theory.
+- `DSTheoryForm.cs` : Application for visualization of results from *Dempster Shafer Theory*
+- `ChartForm.cs` : A window for populating all the charts contents.
