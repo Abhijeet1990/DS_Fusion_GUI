@@ -1,8 +1,8 @@
-# Get Data based on the use case
+# Get Data based on the use case for each steps
 
 import pandas as pd
 import numpy as np
-from DataFusionModifiedAttackProbability import DataFusion
+from DataFusion import DataFusion
 import time
 import datetime
 import msgpack as mp

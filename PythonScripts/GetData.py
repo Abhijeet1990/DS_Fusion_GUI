@@ -2,7 +2,7 @@
 
 import pandas as pd
 import numpy as np
-from DataFusionModifiedAttackProbability import DataFusion
+from DataFusion import DataFusion
 import time
 import datetime
 import msgpack as mp

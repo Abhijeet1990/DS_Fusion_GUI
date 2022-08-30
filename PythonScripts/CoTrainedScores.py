@@ -1,7 +1,7 @@
 import pandas as pd
 import xlsxwriter
 import numpy as np
-from DataFusionModifiedAttackProbability import DataFusion
+from DataFusion import DataFusion
 import time
 import datetime
 from sklearn.model_selection import train_test_split
